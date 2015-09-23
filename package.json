@@ -1,6 +1,6 @@
 {
   "name": "esprima-to-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert an ast(object) to its object for Esprima",
   "main": "index.js",
   "scripts": {
