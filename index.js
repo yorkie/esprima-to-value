@@ -1,4 +1,6 @@
 
+'use strict';
+
 const getObject = require('esprima-get-object');
 
 function toValue (tree) {
