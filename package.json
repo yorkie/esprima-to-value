@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/yorkie/esprima-to-value/issues"
   },
-  "homepage": "https://github.com/yorkie/esprima-to-value#readme"
+  "homepage": "https://github.com/yorkie/esprima-to-value#readme",
+  "dependencies": {
+    "esprima-get-object": "^1.0.1"
+  }
 }
