@@ -31,6 +31,10 @@ console.log(toValue(ast.body));
  */
 ```
 
+### Author
+
+- [Yorkie Lui](https://github.com/yorkie)
+
 ### License
 
 MIT
