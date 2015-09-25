@@ -32,7 +32,7 @@ function toValue (tree) {
 function getReturn (body) {
   const tree = body.shift();
   if (tree.type === 'ReturnStatement') {
-    if (tree.argument) {
+    if (tree.argument && tree.argument.property) {
       return getObject(tree.argument);
     } else {
       return null;
